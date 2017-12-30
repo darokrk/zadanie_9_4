@@ -10,7 +10,9 @@ function drawTree(getTreeHeight) {
 		console.log(star);
 	}
 }
-var numberDrawTree = drawTree(5);
-var numberDrawTree2 = drawTree(6);
-var numberDrawTree3 = drawTree(7);
-var numberDrawTree4 = drawTree(8);
+var numberDrawTree = drawTree(20);
+/*
+var numberDrawTree2 = drawTree(3);
+var numberDrawTree3 = drawTree(5);
+var numberDrawTree4 = drawTree(7);
+*/
